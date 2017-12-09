@@ -8,7 +8,7 @@
 
 import Foundation
 
-class TestObject {
+public class TestObject {
     
     public var value:Int = 3
     

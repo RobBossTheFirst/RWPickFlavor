@@ -37,8 +37,6 @@ s.source = { :git => "https://github.com/RobBossTheFirst/RWPickFlavor.git", :tag
 
 # 7
 s.framework = "UIKit"
-s.dependency 'Alamofire'
-s.dependency 'MBProgressHUD'
 
 # 8
 s.source_files = "RWPickFlavor/**/*.{swift}"
